@@ -1,7 +1,3 @@
-export default function MealsLayout({children})
-{
-    return<>
-    <p>Meals Layout</p>
-    {children}
-    </>
+export default function MealsLayout({ children }) {
+  return <>{children}</>;
 }
